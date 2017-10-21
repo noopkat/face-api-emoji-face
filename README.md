@@ -19,5 +19,5 @@ There are alternative solutions for this sort of use which work offline and run 
 
 1. Clone this repo
 2. With NodeJS installed, run `npm install` in the cloned directory
-3. [Create a new Face API key on the S0 tier (caution: costs money)](https://docs.microsoft.com/en-us/azure/cognitive-services/face/) and paste the key into the source code in client.js
+3. [Create a new Face API key on the S0 tier (caution: costs money)](https://docs.microsoft.com/en-us/azure/cognitive-services/face/) and paste the key into the [source code in client.js](https://github.com/noopkat/face-api-emoji-face/blob/master/public/client.js#L19)
 4. Run `npm start` in your terminal and open a browser tab pointed at your localhost on port 3000.
