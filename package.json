@@ -1,0 +1,22 @@
+{
+  "name": "emoji-face-track-ms-face-api",
+  "version": "0.0.1",
+  "description": "an experiment",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "faceapi",
+    "microsoft",
+    "cognitive services"
+  ]
+}

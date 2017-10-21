@@ -1,0 +1,26 @@
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 25px;
+}
+
+canvas {
+  display: none;
+}
+
+#faceRect {
+  position: absolute;
+  border: 2px solid #00ff00;
+  padding: 0px;
+  margin: 0px;
+}
+
+#emoji {
+  position: absolute;
+  padding: 0px;
+  margin: 0px;
+  display: none;
+}
